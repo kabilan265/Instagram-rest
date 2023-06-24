@@ -1,0 +1,16 @@
+F:\spring\instagram\src\main\java\com\spring\instagram\config\WebConfig.java
+F:\spring\instagram\src\main\java\com\spring\instagram\entity\Photos.java
+F:\spring\instagram\src\main\java\com\spring\instagram\web\UserController.java
+F:\spring\instagram\src\main\java\com\spring\instagram\entity\UserDetails.java
+F:\spring\instagram\src\main\java\com\spring\instagram\InstagramApplication.java
+F:\spring\instagram\src\main\java\com\spring\instagram\repository\UserRepository.java
+F:\spring\instagram\src\main\java\com\spring\instagram\service\PhotosServiceImpl.java
+F:\spring\instagram\src\main\java\com\spring\instagram\modal\Error.java
+F:\spring\instagram\src\main\java\com\spring\instagram\service\UserServiceImpl.java
+F:\spring\instagram\src\main\java\com\spring\instagram\exception\BadRequestExceptiion.java
+F:\spring\instagram\src\main\java\com\spring\instagram\exception\NotFoundException.java
+F:\spring\instagram\src\main\java\com\spring\instagram\service\UserService.java
+F:\spring\instagram\src\main\java\com\spring\instagram\service\PhotosService.java
+F:\spring\instagram\src\main\java\com\spring\instagram\exception\ApplicationExceptionHandler.java
+F:\spring\instagram\src\main\java\com\spring\instagram\repository\PhotosRepository.java
+F:\spring\instagram\src\main\java\com\spring\instagram\web\PhotoController.java

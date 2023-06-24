@@ -1,0 +1,11 @@
+com\spring\instagram\repository\PhotosRepository.class
+com\spring\instagram\entity\UserDetails.class
+com\spring\instagram\service\UserService.class
+com\spring\instagram\entity\Photos.class
+com\spring\instagram\service\PhotosService.class
+com\spring\instagram\web\UserController.class
+com\spring\instagram\service\PhotosServiceImpl.class
+com\spring\instagram\InstagramApplication.class
+com\spring\instagram\repository\UserRepository.class
+com\spring\instagram\service\UserServiceImpl.class
+com\spring\instagram\web\PhotoController.class
